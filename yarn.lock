@@ -1306,11 +1306,11 @@
     yargs "^16.2.0"
 
 "@metamask/approval-controller@^3.5.1":
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/@metamask/approval-controller/-/approval-controller-3.5.1.tgz#8d5099b7f0989d56b815a1423f395a15bf6bf056"
-  integrity sha512-9E57KyuhHkb4REt7j0XULXwXeKJC//sJkFFweddAH3Ak3Ec0YLFrkQoieWTDiaOthA4b5w9eL+B3gw5J4lAr5A==
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/@metamask/approval-controller/-/approval-controller-3.5.2.tgz#c8ca4578f053d719bff82b0c9fa1939d21978d46"
+  integrity sha512-5jYMtPexeeNL8m+5Mzhayr1l367MbbBs0Wf+FBeL/xLv6nSNqvvNs/CXfvkqxLDZJKIgBCBPKg7eIu1U6MJ6ag==
   dependencies:
-    "@metamask/base-controller" "^3.2.1"
+    "@metamask/base-controller" "^3.2.2"
     "@metamask/utils" "^6.2.0"
     eth-rpc-errors "^4.0.2"
     immer "^9.0.6"
@@ -1345,7 +1345,7 @@
     "@metamask/utils" "^6.2.0"
     immer "^9.0.6"
 
-"@metamask/base-controller@^3.2.0", "@metamask/base-controller@^3.2.3":
+"@metamask/base-controller@^3.2.0", "@metamask/base-controller@^3.2.2", "@metamask/base-controller@^3.2.3":
   version "3.2.3"
   resolved "https://registry.yarnpkg.com/@metamask/base-controller/-/base-controller-3.2.3.tgz#7436a14f6789acf0814952dabaa70ee4fb7d473c"
   integrity sha512-k66oZe7BOEx0D5N5X8feE/32QlrUTmiEHHAZU/yCac2+VHllJOCEQV/cTeaAtgepnEf8O7SskvYZN+eIjgS99w==
